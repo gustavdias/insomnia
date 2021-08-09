@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "mario",
+      "email": "mario@email.com"
+    }
+  ],
+  "products": [
+    {
+      "title": "bicicleta",
+      "price": 150,
+      "id": 1
+    },
+    {
+      "title": "moto",
+      "price": 15000,
+      "id": 3
+    },
+    {
+      "date": "2021-08-09T09:20:14.730Z",
+      "id": 4
+    },
+    {
+      "date": "2021-08-09T09:22:12.236Z",
+      "uuid": "39e0b9c5-8ca2-4eb5-ae1d-9390a74dc556",
+      "id": 5
+    },
+    {
+      "date": "2021-08-09T09:22:12.529Z",
+      "uuid": "bfc13fd1-375d-420e-9feb-90e27030a5f3",
+      "id": 6
+    }
+  ],
+  "orders": []
+}
